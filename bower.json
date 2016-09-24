@@ -1,0 +1,25 @@
+{
+  "name": "chj-2016",
+  "version": "0.1.0",
+  "authors": [
+    ""
+  ],
+  "description": "Project.",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~3.1.0",
+    "normalize-css": "~4.2.0",
+    "waypoints": "~4.0.0",
+    "imagesloaded": "~4.1.0",
+    "animateplus": "*",
+    "bLazy": "blazy#~1.6.2"
+  }
+}

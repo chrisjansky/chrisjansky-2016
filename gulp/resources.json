@@ -1,0 +1,32 @@
+{
+  "toMove": [
+    "app/assets/favicon*",
+    "!app/assets/**/*.html",
+    "app/**/*.html",
+    "app/assets/fonts/*"
+  ],
+  "injectDev": {
+    "site": [
+      "bower_components/normalize-css/normalize.css",
+      "app/assets/css/style.css",
+
+      "bower_components/jquery/dist/jquery.js",
+
+      "bower_components/bLazy/blazy.js",
+      "bower_components/imagesloaded/imagesloaded.pkgd.js",
+      "bower_components/waypoints/lib/jquery.waypoints.js",
+      "bower_components/animateplus/animate.js",
+
+      "app/assets/js/app.js",
+      "app/assets/js/chj-blazy.js",
+      "app/assets/js/chj-toggle.js",
+      "app/assets/js/chj-waypoints.js"
+    ]
+  },
+  "injectDist": {
+    "site": [
+      "dist/assets/css/style-min.css",
+      "dist/assets/js/site-min.js"
+    ]
+  }
+}
