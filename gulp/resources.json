@@ -16,6 +16,7 @@
       "bower_components/imagesloaded/imagesloaded.pkgd.js",
       "bower_components/waypoints/lib/jquery.waypoints.js",
       "bower_components/animateplus/animate.js",
+      "bower_components/jquery.easing/js/jquery.easing.js",
 
       "app/assets/js/app.js",
       "app/assets/js/chj-blazy.js",
