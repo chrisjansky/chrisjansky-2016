@@ -1,0 +1,25 @@
+mixin header(type)
+  a.o-name(href="index")
+    | Ch
+    span.o-name__fade ristian
+    |  J
+    span.o-name__fade ánský
+
+  button.o-nav-toggle(data-toggle="nav--is-active"): include ../../svg/icon_menu.svg
+
+  nav.o-nav
+
+    button.o-nav-close(data-toggle="nav--is-active"): include ../../svg/icon_close.svg
+    h1.o-nav__title.t-head--one ( Table of Contents )
+
+    ul.o-nav__list
+      each instance in ["Overview", "About", "Contact"]
+        li.o-nav__item--block: a.o-nav__link.t-link.t-link--one(href="#"): span.t-link__line--hidden= instance
+
+    .o-nav__footer
+      h2.o-nav__subtitle.t-head--one ( Related )
+      ul.o-nav__contact
+        each instance in ["LinkedIn", "GitHub"]
+          li.o-nav__item--inline: a.o-nav__link.t-link.t-link--two(href="#"): span.t-link__line--hidden= instance
+
+  span.o-nav-overlay(data-toggle="nav--is-active")
