@@ -1,0 +1,94 @@
+{
+  "design": [
+    {
+      "id": "labil",
+      "thumbnail": "labil_ls_5_xl",
+      "ratio": "landscape",
+      "name": "Labil Grotesk",
+      "category": "Type design",
+      "title": "A bespoke typeface",
+      "description": "done as a master’s thesis project in 6 months.",
+      "short": "The outcome of an attempt to design a fully fledged, bespoke typeface in 6 months. Nominated for Czech National Award for Student Design 2016.",
+      "long": [
+        "As typography stood out as a passion of mine during the 6 years of spent at university, it only seemed natural to pursue it further through a master’s thesis. What started out as a first foray into typeface design resulted in a comprehensive font family of 3 weights sporting multiple figure variants, small capitals, OpenType glyph alternates and stylistic sets delicately altering the tone of the typeface.",
+        "The juxtaposition of the balance inherent in static sans-serif letterforms and the concept of instability served as a primary source of inspiration. Mixing formal cues from the archetypal Swiss grotesques with intentionally lopsided features renders the text seemingly affected by the laws of gravity; with letters looking like real objects – falling down or leaning onto the next one.",
+        "Work in progress. To be released for distribution beginning of 2017."
+      ]
+    },
+    {
+      "id": "add3d",
+      "thumbnail": "add3d_sq_1_xl",
+      "ratio": "square",
+      "name": "ADD3D",
+      "category": "Concept, Editorial design",
+      "title": "A college yearbook",
+      "description": "highlighting selected projects done at Tomas Bata University.",
+      "short": "Tomas Bata University – my alma mater – publishes an annual catalogue featuring selected student projects done in the past year. Designing the catalogue itself is a rare opportunity that I was happy to seize.",
+      "long": [
+        "The square format of 20 × 20 cm – which stayed constant over the years – informed both the structure and layout.",
+        "The edge-to-edge use of photography that wraps around and flows from one page to another creates an immersive, seemingly endless horizontal stream of projects that is further augmented by a splash of 2 Pantone colours — all whilst respecting the constraints of a school budget."
+      ]
+    },
+    {
+      "id": "aq",
+      "thumbnail": "artstaq_ls_1_xl",
+      "ratio": "landscape",
+      "name": "ARTSTAQ",
+      "category": "Branding, Web design",
+      "title": "An art exchange",
+      "description": "breaking new ground in art trading.",
+      "short": "ARTSTAQ – a thriving start-up from Prague – bridges the gap between the online world and traditional art exchange markets. My role as a Lead Designer was to help them make this message crystal clear.",
+      "long": [
+        "I was given a rare chance to shape both the visual identity and the core product – the online trading website itself. The visual identity stemmed from an extensive research on the visual culture of art trading and the auction houses involved — emerging with an easily identifiable, yet seemingly familiar look.",
+        "Working in close collaboration with Jakub Krčmář, an UX designer, resulted in a complex platform sporting a streamlined, user-centered interface — letting both the artworks and important trading data to shine."
+      ]
+    }
+  ],
+  "dev": [
+    {
+      "id": "veneo",
+      "thumbnail": "veneo_lap_1_l",
+      "ratio": "landscape",
+      "device": "tablet",
+      "name": "veneo",
+      "category": "Web design, Front-end development",
+      "title": "A jewelry store",
+      "description": "turned into a sophisticated online experience.",
+      "short": "A web shop complementing a traditional brick & mortar family-owned artisan jewelry store.",
+      "long": [
+        "Well-thought out structure and refreshingly simple finish lend themselves to a pleasant shopping experience; a rather unique sight in the Central European landscape.",
+        "Roses are red, photos are big, prices are bold… you know how this goes. Suffice to say, this relentless focus on simplicity executed with a consistently high standard of quality across various devices ensures a website that is both fun to use and delightful to look at."
+      ]
+    },
+    {
+      "id": "ekta",
+      "thumbnail": "ekta_lap_1_l",
+      "ratio": "landscape",
+      "device": "desktop",
+      "name": "Ekta",
+      "category": "Front-end development",
+      "title": "An artist showcase",
+      "description": "exhibiting works of a Gothenburg-based artist & illustrator.",
+      "short": "Ekta is a prolific Gothenburg-based artist and illustrator. I had the opportunity to develop his new portfolio, defined by the ethos of less is more (random).",
+      "long": [
+        "A seemingly primitive look belies an underlying sophisticated algorithm enabling the artworks to vary in count, order and form. Each ↻ yields a new instance of the website.",
+        "The interface with its understated presence and unobtrusive animations take a step back; empowering the artworks themselves to command all the attention they deserve."
+      ]
+    },
+    {
+      "id": "little-greta",
+      "thumbnail": "lg_lap_1_l",
+      "ratio": "landscape",
+      "device": "cinema",
+      "name": "Little Greta",
+      "category": "Web design, Front-end development",
+      "title": "An agency portfolio",
+      "description": "for a full service communication and design agency.",
+      "short": "A complete website overhaul for Little Greta — a Czech creative agency. From concept and paper wireframing to UI design & front-end development.",
+      "long": [
+        "This joint project – actually a second one, as I've designed & developed the former website as well – proved to be both challenging and satisfying in terms of the scope.",
+        "I managed the whole product, from sketching in paper and wireframing to prototyping the interactions, developing the responsive front-end architecture and polishing the animations. Oh the joy of revisiting your own work and building upon it once more!"
+      ]
+    }
+  ]
+}
