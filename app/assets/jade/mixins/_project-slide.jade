@@ -1,0 +1,4 @@
+mixin projectSlide(file, ratio)
+  .o-detail__slide(class="slide--#{ratio}")
+    .o-detail__figure(class="figure--#{ratio}", data-lazy="figure")
+      img.o-detail__image(class="image--#{ratio}", src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==", data-src="../assets/images/design/labil_#{file}_xl.jpg", alt="#{project.name} Photo")
