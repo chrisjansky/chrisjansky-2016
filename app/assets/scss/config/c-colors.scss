@@ -1,0 +1,28 @@
+$grey--000:   hsb(000, 000, 000);
+$grey--100:   hsb(000, 000, 014);
+$grey--200:   hsb(000, 000, 020);
+$grey--300:   hsb(000, 000, 032);
+$grey--400:   hsb(000, 000, 042);
+$grey--500:   hsb(000, 000, 050);
+$grey--600:   hsb(000, 000, 060);
+$grey--700:   hsb(000, 000, 075);
+$grey--800:   hsb(000, 000, 087);
+$grey--850:   hsb(000, 000, 093);
+$grey--900:   hsb(000, 000, 096);
+
+// Interactive
+$c-link:         currentColor;
+$c-visited:      $c-link;
+
+$c-hover:        currentColor;
+$c-active:       $c-hover;
+
+$c-select__bg:   black;
+$c-select__text: white;
+
+$project--labil: hsb(48, 40, 100);
+$project--add3d: hsb(178, 24, 88);
+$project--aq:    hsb(212, 90, 40);
+$project--veneo: hsb(36, 18, 82);
+$project--ekta:  hsb(154, 16, 92);
+$project--lg:    hsb(265, 95, 45);

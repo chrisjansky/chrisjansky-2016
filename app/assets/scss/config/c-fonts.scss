@@ -1,0 +1,98 @@
+@font-face {
+  font-family: "Stanley-Poster";
+  src: url("../fonts/StanleyPoster-Regular.woff2") format("woff2"),
+    url("../fonts/StanleyPoster-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Stanley";
+  src: url("../fonts/StanleyBold-Regular.woff2") format("woff2"),
+    url("../fonts/StanleyBold-Regular.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Stanley";
+  src: url("../fonts/StanleyRegular-Regular.woff2") format("woff2"),
+    url("../fonts/StanleyRegular-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Stanley";
+  src: url("../fonts/StanleyRegular-Italic.woff2") format("woff2"),
+    url("../fonts/StanleyRegular-Italic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Druk Text Wide Web";
+  src: url("../fonts/DrukTextWide-Super-Web.woff2") format("woff2"),
+    url("../fonts/DrukTextWide-Super-Web.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Druk Text Wide Web";
+  src: url("../fonts/DrukTextWide-Heavy-Web.woff2") format("woff2"),
+    url("../fonts/DrukTextWide-Heavy-Web.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Druk Text Wide Web";
+  src: url("../fonts/DrukTextWide-Bold-Web.woff2") format("woff2"),
+    url("../fonts/DrukTextWide-Bold-Web.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Druk Text Wide Web";
+  src: url("../fonts/DrukTextWide-Medium-Web.woff2") format("woff2"),
+    url("../fonts/DrukTextWide-Medium-Web.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Druk XCond Super";
+  src: url("../fonts/DrukXCond-Super-Web.woff2") format("woff2"),
+    url("../fonts/DrukXCond-Super-Web.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Druk XXCond Super";
+  src: url("../fonts/DrukXXCond-Super-Web.woff2") format("woff2"),
+    url("../fonts/DrukXXCond-Super-Web.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+$font__display: "Stanley-Poster", serif;
+
+$font__serif: "Stanley", serif;
+
+$font__cond: "Druk XCond Super", sans-serif;
+$font__comp: "Druk XXCond Super", sans-serif;
+
+$font__sans:         "Druk Text Wide Web", sans-serif;
+$font__sans--super:  900;
+$font__sans--heavy:  700;
+$font__sans--bold:   bold;
+$font__sans--medium: normal;
+
+// Defaults.
+$default__size: 16;
+$default__family: $font__serif;
+$default__weight: normal;
+$default__leading: $leading--b;

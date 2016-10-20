@@ -1,0 +1,21 @@
+$leading--b: 1.5;
+
+$duration--t: .125s;
+$duration--s: .25s;
+$duration--b: .5s;
+$duration--m: .75s;
+$duration--l: 1s;
+
+$ease--l: $ease-in-out-expo;
+$ease--m: $ease-in-out-quint;
+
+$tracking--b: em(.5);
+$tracking--l: em(1);
+
+$font--l:       28; // 1.75em
+$font--l-sans:  26; // 1.625em
+$font--m:       24; // 1.5em
+$font--s-sans:  18;
+$font--xs-sans: 14;
+
+$distance--b: .375rem; // 6px
