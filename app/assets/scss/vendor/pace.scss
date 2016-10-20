@@ -1,0 +1,25 @@
+.pace {
+  user-select: none;
+
+  cursor: wait;
+}
+
+.pace-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1500;
+
+  width: 100%;
+  height: 100%;
+
+  background-color: black;
+}
+
+.pace-running {
+  overflow-y: hidden;
+}
+
+.pace-inactive {
+  display: none;
+}
